@@ -51,3 +51,25 @@ h3{
 .yellow-highlight{
     background-color: yellow;
 }
+
+table, tr, td, th{
+    padding: 0%;
+    margin: 0%;
+    border-collapse: collapse;
+    border: none;
+}
+
+.table-text{
+    width: 50%;
+}
+
+.thead{
+    width: 100%;
+    color: white;
+    background-color: blue;
+    text-align: left;
+}
+
+.lightblue{
+    background-color: aqua;
+}
