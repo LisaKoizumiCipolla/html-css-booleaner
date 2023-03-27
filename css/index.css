@@ -73,3 +73,26 @@ table, tr, td, th{
 .lightblue{
     background-color: aqua;
 }
+
+h4{
+    font-weight: 1100;
+    color: gray;
+}
+
+.picture{
+    resize: none;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph{
+    background-image: url(../img/graph.jpg);
+}
+
+.picture-text{
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+}
