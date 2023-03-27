@@ -2,7 +2,7 @@ body {
     font-family: 'Domine', serif;
     font-size: 100%;
     margin: 0;
-    width: 85%;
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -23,14 +23,14 @@ body {
 
 h1{
     margin-bottom: 8px;
-    font-size: 3.5em;
+    font-size: 2.5em;
 }
 
 h2{
     color: lightgray;
     margin-top: 10px;
     margin-bottom: 2px;
-    font-size: 2em;
+    font-size: 1.2em;
 }
 
 .text-blue{
@@ -41,4 +41,13 @@ h3{
     
     color: lightgray;
     margin-top: 3px;
+    font-size: 0.8em;
+}
+
+.caption{
+    font-size: 0.7em;
+}
+
+.yellow-highlight{
+    background-color: yellow;
 }
