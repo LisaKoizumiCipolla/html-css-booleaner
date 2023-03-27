@@ -1,0 +1,99 @@
+body {
+    font-family: 'Domine', serif;
+    font-size: 100%;
+    margin: 0;
+}
+
+.banner{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(0, 195, 255);
+    background-repeat: repeat-x;
+    height: 16.7vh;
+    position: relative;
+}
+
+.logo{
+    height: 100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: 10px;
+}
+
+h1{
+    margin-bottom: 8px;
+    font-size: 2.5em;
+}
+
+h2{
+    color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    font-size: 1.2em;
+}
+
+.text-blue{
+    color: rgb(0, 195, 255);
+}
+
+h3{
+    
+    color: lightgray;
+    margin-top: 3px;
+    font-size: 0.8em;
+}
+
+.caption{
+    font-size: 0.7em;
+}
+
+.yellow-highlight{
+    background-color: yellow;
+}
+
+table, tr, td, th{
+    padding: 0%;
+    margin: 0%;
+    border-collapse: collapse;
+    border: none;
+}
+
+.table-text{
+    width: 50%;
+}
+
+.thead{
+    width: 100%;
+    color: white;
+    background-color: blue;
+    text-align: left;
+}
+
+.lightblue{
+    background-color: aqua;
+}
+
+h4{
+    font-weight: 1100;
+    color: gray;
+}
+
+.picture{
+    resize: none;
+    background-repeat: no-repeat;}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph{
+    background-image: url(../img/graph.jpg);
+}
+
+.picture-text{
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+    width: 300px;
+    height: 200px;  
+    padding: 15px; 
+}
