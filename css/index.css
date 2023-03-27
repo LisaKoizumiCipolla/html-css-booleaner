@@ -1,0 +1,17 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.banner{
+    background-image: url(../img/pattern.png);
+    background-color: aqua;
+    background-repeat: repeat-x;
+    height: 16.7vh;
+}
+
+.logo{
+    background-image: url(../img/logo.svg);
+    height: 8.5vh;
+    background-repeat: no-repeat;
+}
